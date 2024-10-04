@@ -51,12 +51,12 @@ Here are a few ways you can interact with the **Laughify** API:
 
 ### Random Joke
 ```bash
-curl -X GET "https://api.laughify.com/jokes/random"
+curl -X GET "https://api.laughify.xyz/jokes/random"
 ```
 
 ### Category-Specific Joke (e.g., Dad Jokes)
 ```bash
-curl -X GET "https://api.laughify.com/jokes/dad"
+curl -X GET "https://api.laughify.xyz/jokes/dad"
 ```
 
 ## Contributing
