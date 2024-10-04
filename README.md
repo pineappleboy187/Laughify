@@ -18,7 +18,8 @@ Welcome to **Laughify**, the ultimate joke API that delivers jokes across differ
 - 🎯 **Category-Specific Jokes**: Choose from categories like dad jokes, puns, Halloween jokes, and more.
 - ⚡ **Fast & Simple**: Lightweight API for instant joke delivery.
 - 📦 **JSON Response**: All responses are in easy-to-use JSON format.
-- 🍓 **Hosted on a Raspberry Pi**: Using Cloudflare Tunnels.
+- 🍓 **Backend Hosted on a Raspberry Pi**: Using Cloudflare Tunnels.
+- ⛅ **Frontend Built using Astro and React**: Hosted on Cloudflare Pages.
 
 ## Endpoints
 
