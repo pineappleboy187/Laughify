@@ -29,7 +29,7 @@ Welcome to **Laughify**, the ultimate joke API that delivers jokes across differ
 - **Response Example:**
   ```json
   {
-    "category": "Dad Joke",
+    "category": "dad",
     "joke": "Why don’t skeletons fight each other? They don’t have the guts."
   }
   ```
@@ -41,7 +41,7 @@ Welcome to **Laughify**, the ultimate joke API that delivers jokes across differ
 - **Response Example:**
   ```json
   {
-    "category": "Pun",
+    "category": "pun",
     "joke": "I used to play piano by ear, but now I use my hands."
   }
   ```
