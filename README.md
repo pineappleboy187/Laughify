@@ -36,7 +36,7 @@ Welcome to **Laughify**, the ultimate joke API that delivers jokes across differ
 ### 2. Get a Joke by Category
 - **Endpoint:** `/jokes/{category}`
 - **Method:** GET
-- **Categories:** `dad`, `knock-knock`, `one-liner`, `knock-knock`, `one-liner`, `corny`, `puns`, `riddles`, `animal`, `observational`
+- **Categories:** `dad`, `knock-knock`, `one-liner`, `one-liner`, `corny`, `puns`, `riddles`, `animal`, `observational`
 - **Response Example:**
   ```json
   {
